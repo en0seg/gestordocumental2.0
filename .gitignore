@@ -1,0 +1,7 @@
+# Cache and logs (Symfony2)
+/pdf/*
+/modules/importar/*
+/modules/aplazame/*
+/modules/signaturit/*
+/modules/pagamastarde/*
+/modules/prestashop_webservice/*
